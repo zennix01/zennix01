@@ -11,5 +11,5 @@
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/zennix01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
 </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zennix01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zennix01" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zennix01&show_icons=true&theme=dark&locale=Tr&layout=compact" alt="zennix01" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zennix01&show_icons=true&locale=en&theme=tokyonight" alt="zennix01" /></p>
