@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Zennix</h1>
+<h1 align="center">Merhaba 👋, Ben zennix</h1>
 <h3 align="center"><@/>dev.</h3>
 
 <p align="center">
